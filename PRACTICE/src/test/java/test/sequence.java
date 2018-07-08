@@ -8,6 +8,8 @@ public class sequence {
 	public void f1()
 	{
 		System.out.println("abc12");
+		
+		System.out.println("abc123");
 	}
 
 }
