@@ -7,7 +7,7 @@ public class sequence {
 	@Test
 	public void f1()
 	{
-		System.out.println("abc");
+		System.out.println("abc12");
 	}
 
 }
